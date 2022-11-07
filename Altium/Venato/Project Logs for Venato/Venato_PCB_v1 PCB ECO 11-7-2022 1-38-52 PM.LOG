@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=U1-39_10
+Removed Pin From Net: NetName=GND Pin=U1-39_11
+Removed Pin From Net: NetName=GND Pin=U1-39_12
+Removed Pin From Net: NetName=GND Pin=U1-39_13
+Removed Pin From Net: NetName=GND Pin=U1-39_14
+Removed Pin From Net: NetName=GND Pin=U1-39_15
+Removed Pin From Net: NetName=GND Pin=U1-39_16
+Removed Pin From Net: NetName=GND Pin=U1-39_17
+Removed Pin From Net: NetName=GND Pin=U1-39_18
+Removed Pin From Net: NetName=GND Pin=U1-39_19
+Removed Pin From Net: NetName=GND Pin=U1-39_20
+Removed Pin From Net: NetName=GND Pin=U1-39_21
+Change Net Name : Old Net Name=NetR19_2 New Net Name=USB_N
+Change Net Name : Old Net Name=NetR20_2 New Net Name=USB_P
+Change Net Color : Old Net Color=RGB(197, 0, 142) New Net Color=Default
+Change Net Color : Old Net Color=RGB(253, 131, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(222, 79, 22) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 117, 173) New Net Color=Default
+Added Differential Pair: Name=CON_USB
+Added Differential Pair: Name=USB
+Added Class: Name=USB_chip
+Added Class: Name=usb_direct
