@@ -1,0 +1,15 @@
+Added Component: Designator=U10(SOT-363)
+Add component (AddParameter): Name = "Category"; Value = "Uncategorized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JESTEK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ES36NC5M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "10=0.03520, 100=0.02820, 300=0.02470, 3000=0.02200, 6000=0.01990, 9000=0.01890 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "92260"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C2960985"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SIM_DATA Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-2
+Added Pin To Net: NetName=SIM_CLK Pin=U10-3
+Added Pin To Net: NetName=SIM_RST Pin=U10-4
+Added Pin To Net: NetName=SIM_VDD Pin=U10-6
+Change Net Name : Old Net Name=NetC1_2 New Net Name=+3.7V_U1
