@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=328P_PE0 Pin=J2-45
+Removed Pin From Net: NetName=328P_PE1 Pin=J2-47
+Added Pin To Net: NetName=328P_PE1 Pin=J2-45
+Added Pin To Net: NetName=328P_PE0 Pin=J2-47
