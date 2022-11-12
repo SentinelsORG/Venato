@@ -95,7 +95,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RHBEPFYX
 
 [Document4]
 DocumentPath=..\Venato\schmaticSMDv1.SchLib
@@ -112,7 +112,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SVGONCPE
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for BaseCricuit\Design Rule Check - BaseCircuit.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
