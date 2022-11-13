@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : E:\Projects\UOM Projects\Sentinels\Venato\Altium\Venato\Venato_PCB_v1.PcbDoc
-Date     : 11/12/2022
-Time     : 12:07:28 AM
+Date     : 11/13/2022
+Time     : 1:20:13 PM
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -66,4 +66,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
