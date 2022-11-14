@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=328P_D8 Pin=J8-5
+Removed Pin From Net: NetName=328P_A1 Pin=J8-6
+Removed Pin From Net: NetName=328P_A0 Pin=J8-7
+Removed Pin From Net: NetName=328P_D4 Pin=J8-9
+Removed Pin From Net: NetName=328P_D3 Pin=J8-12
+Removed Pin From Net: NetName=328P_D2 Pin=J8-13
+Removed Pin From Net: NetName=328P_D0 Pin=J8-14
+Removed Pin From Net: NetName=328P_D1 Pin=J8-15
+Added Pin To Net: NetName=328P_D0 Pin=J5-2
+Added Pin To Net: NetName=328P_D3 Pin=J8-5
+Added Pin To Net: NetName=328P_D8 Pin=J8-6
+Added Pin To Net: NetName=328P_D2 Pin=J8-7
+Added Pin To Net: NetName=328P_D4 Pin=J8-12
+Added Pin To Net: NetName=328P_A1 Pin=J8-15
+Added Pin To Net: NetName=328P_A0 Pin=J8-16
+Change Net Color : Old Net Color=RGB(255, 0, 102) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 102, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 153, 51) New Net Color=Default
+Change Net Color : Old Net Color=RGB(153, 0, 255) New Net Color=Default
+Added Pin To Net: NetName=328P_A2 Pin=J8-14
+Added Pin To Net: NetName=328P_A2 Pin=U1-25
+Added Net: Name=328P_A2
+Added Pin To Net: NetName=328P_A3 Pin=J8-13
+Added Pin To Net: NetName=328P_A3 Pin=U1-26
+Added Net: Name=328P_A3
+Added Pin To Net: NetName=328P_D7 Pin=J8-9
+Added Pin To Net: NetName=328P_D7 Pin=U1-11
+Added Net: Name=328P_D7
+Added Pin To Net: NetName=328P_SS Pin=J1-40
+Added Pin To Net: NetName=328P_SS Pin=U1-14
+Added Net: Name=328P_SS
