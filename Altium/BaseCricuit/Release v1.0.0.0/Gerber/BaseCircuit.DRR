@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BaseCircuit.PcbDoc   11/15/2022  3:36:40 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BaseCircuit-RoundHoles.TXT
+ASCII SlotHoles File : BaseCircuit-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             74        PTH        431.45mm (16.99inch)
+T2      0.5mm (20mil)                                             Slot              2         PTH        14.64mm (0.58inch)
+T3      1.1mm (43mil)                                             Round             33        PTH        213.68mm (8.41inch)
+T4      1.5mm (59mil)                                             Round             5         PTH        36.85mm (1.45inch)
+T5      2.2mm (87mil)                                             Round             3         PTH        10.16mm (0.40inch)
+T6      3.2mm (126mil)                                            Round             3         PTH        90.01mm (3.54inch)
+T7      1.1mm (43mil)                                             Round             2         NPTH       38.25mm (1.51inch)
+T8      1.6mm (63mil)                                             Round             2         NPTH       50.53mm (1.99inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              124
+
+Total Processing Time (hh:mm:ss) : 00:00:00
