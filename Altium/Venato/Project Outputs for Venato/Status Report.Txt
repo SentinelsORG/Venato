@@ -1,14 +1,17 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 9:44:54 AM On 11/13/2022
+Start Output Generation At 3:04:03 PM On 11/15/2022
 
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [Venato.PrjPcb]
-   Generated File[Bill of Materials-Venato.xlsx]
+Output: Venato NC Drill
+Type  : NC Drill
+From  : PCB Document [Venato_PCB_v1.PcbDoc]
+   Generated File[Venato_PCB_v1-RoundHoles.TXT]
+   Generated File[Venato_PCB_v1-SlotHoles.TXT]
+   Generated File[Venato_PCB_v1.LDP]
+   Generated File[Venato_PCB_v1.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 9:44:57 AM On 11/13/2022
+Finished Output Generation At 3:04:03 PM On 11/15/2022

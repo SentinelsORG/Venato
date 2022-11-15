@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Venato_PCB_v1.PcbDoc   11/15/2022  3:04:03 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Venato_PCB_v1-RoundHoles.TXT
+ASCII SlotHoles File : Venato_PCB_v1-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             12        PTH        12.53mm (0.49inch)
+T2      0.3mm (12mil)                                             Round             232       PTH        848.40mm (33.40inch)
+T3      0.5mm (20mil)                                             Slot              2         PTH        14.64mm (0.58inch)
+T4      1mm (39mil)                                               Round             4         PTH        15.50mm (0.61inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              250
+
+Total Processing Time (hh:mm:ss) : 00:00:00
