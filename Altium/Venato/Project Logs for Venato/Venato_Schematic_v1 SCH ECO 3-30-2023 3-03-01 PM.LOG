@@ -1,0 +1,7 @@
+Change Net Color : Net Name= +3.7V_B Old Net Color=Default New Net Color=RGB(255, 0, 102)
+Change Net Color : Net Name= +3.7V_U1 Old Net Color=Default New Net Color=RGB(255, 51, 153)
+Change Net Color : Net Name= +3.7V_U8 Old Net Color=Default New Net Color=RGB(255, 102, 153)
+Change Net Color : Net Name= +5V Old Net Color=Default New Net Color=RGB(255, 102, 0)
+Change Net Color : Net Name= +5V_USB Old Net Color=Default New Net Color=RGB(255, 153, 51)
+Change Net Color : Net Name= -VBAT Old Net Color=Default New Net Color=RGB(0, 0, 102)
+Change Net Color : Net Name= GND Old Net Color=Default New Net Color=RGB(0, 51, 102)
