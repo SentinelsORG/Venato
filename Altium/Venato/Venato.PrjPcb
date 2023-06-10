@@ -161,6 +161,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Venato\Design Rule Check - Venato_PCB_v1.html
 DItemRevisionGUID=
 
+[Parameter1]
+Name=Drawn By:
+Value=Saliya Dinusha
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
