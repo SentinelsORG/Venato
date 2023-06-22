@@ -26,4 +26,6 @@ In addition to the previously mentioned schematic design of the main PCB, please
 
 ## PCB Design
 
+In addition to the schematic design, we have invested considerable effort in designing the PCB for this project. In this PCB design, meticulous attention has been given to the placement of each capacitor and resistor. Furthermore, we have diligently calculated the trace impedance and ensured its compatibility with the antennas employed for GPS and GSM/GPRS. A screenshot of the 2D view of the PCB design, created using Altium software, is provided below. For the original PCB and schematic designs, please refer to the corresponding repository on GitHub.
+
 ![Screen shot of 2D PCB](https://github.com/SentinelsORG/Venato/blob/main/Images/PCBss.png?raw=true)
