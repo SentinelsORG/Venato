@@ -21,6 +21,9 @@ Link: [https://github.com/SentinelsORG/Venato/blob/main/documentation/schematic.
 
 The schematic illustrates the electronic design of the main PCB (Venato). As depicted, we have utilized ESP32 and SIM808 chips to provide our PCB with all the necessary functionalities. Furthermore, you can observe the incorporation of meticulous design techniques aimed at enhancing the reliability and fail-safe nature of our product.
 
-![Screen shot of the Schematic PDF](https://github.com/SentinelsORG/Venato/blob/main/documentation/schematic_screenshot.jpg?raw=true)
-
+![Screen shot of the Schematic PDF](https://github.com/SentinelsORG/Venato/blob/main/Images/schematic_screenshot.jpg?raw=true)
 In addition to the previously mentioned schematic design of the main PCB, please note that we have also developed separate PCBs for the other modules. You can access the schematic designs for these modules in the provided repository.
+
+## PCB Design
+
+![Screen shot of 2D PCB](https://github.com/SentinelsORG/Venato/blob/main/Images/PCBss.png?raw=true)
